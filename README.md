@@ -1,6 +1,6 @@
 # Name: Mahiru 
 ### (You can call me Yuuki or Yui)
-![align="right" ](https://github.com/user-attachments/assets/15ae4548-4e03-4fd1-a716-0b1a894aa0e9)
+![avatar ](https://github.com/user-attachments/assets/15ae4548-4e03-4fd1-a716-0b1a894aa0e9)
 
 **Developer** at **Elaina and Friends Developer Zone** | **Student** in Vietnam 
 
