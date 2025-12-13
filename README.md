@@ -32,5 +32,5 @@
 My DMs are always open! Feel free to reach out for collaborations, questions, or just to chat about tech.
 
 ---
-
-*"Coding is not just about writing code, it's about solving problems."*
+[![Discord Presence](https://lanyard.cnrad.dev/api/1053613020338728961)](https://discord.com/users/1053613020338728961)
+*"Don't make me cry - Mahiru"*
