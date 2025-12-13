@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Mahiru 👋
+### (You can call me Yuuki or Yui)
 
-<!--
-**mahiru-chanVN/mahiru-chanVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer** at **Elaina and Friends Developer Zone** | **Student** in Vietnam 🇻🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+**Languages I'm familiar with:**
+- C++
+- HTML & CSS
+- Python
+
+**Currently learning:**
+- JavaScript
+- TypeScript
+
+**Operating Systems:**
+- Arch Linux
+- Ubuntu
+- Windows
+
+---
+
+### 🌐 Languages
+- **English** (Fluent)
+- **Vietnamese** (Native)
+
+---
+
+### 📬 Get in Touch
+My DMs are always open! Feel free to reach out for collaborations, questions, or just to chat about tech.
+
+---
+
+*"Coding is not just about writing code, it's about solving problems."*
