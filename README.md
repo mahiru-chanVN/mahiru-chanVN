@@ -1,4 +1,4 @@
-# Hi there, I'm Mahiru 👋
+# Name: Mahiru 
 ### (You can call me Yuuki or Yui)
 
 **Developer** at **Elaina and Friends Developer Zone** | **Student** in Vietnam 🇻🇳
