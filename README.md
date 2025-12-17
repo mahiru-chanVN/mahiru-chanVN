@@ -1,6 +1,6 @@
 # Name: Mahiru 
-### (You can call me Yuuki or Yui)
-
+### (You can call me Shouko or Yuuki)
+### Dev @Shouko
 **Developer** at **Elaina and Friends Developer Zone** | **Student** in Vietnam 
 
 ![avatar ](https://github.com/user-attachments/assets/15ae4548-4e03-4fd1-a716-0b1a894aa0e9)
@@ -34,4 +34,4 @@ My DMs are always open! Feel free to reach out for collaborations, questions, or
 
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/1053613020338728961)](https://discord.com/users/1053613020338728961)
-*"Don't make me cry - Mahiru"*
+*"Don't make me cry - Shouko"*
